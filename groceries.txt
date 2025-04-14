@@ -1,0 +1,5 @@
+avocado
+strawberries
+grapes
+lemons
+oranges
